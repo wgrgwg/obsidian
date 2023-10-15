@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "cee5afbbc7eb2562",
+    "type": "split",
+    "children": [
+      {
+        "id": "72286e0d78dadd59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d305d91c9ae8eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-2/webpro/2. CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "733794dae2a1f898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-2/webpro/🌐웹프로그래밍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b12487829499a1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-2/comnet/6강 TCP, Socket Programming, Non-blocking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ae622181e2f5494",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fbf47940f81d6f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669fe41254a37d04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d841f28648031c16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#로",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa25ad38777fd182",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dd3fbff31a6c980e",
+    "type": "split",
+    "children": [
+      {
+        "id": "637f48125a0295e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0072ecf6f08d4d7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-2/webpro/2. CSS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30cca293bd5afe97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-2/webpro/2. CSS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe921f7041ef0419",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c1400a5a6bc748f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-2/webpro/2. CSS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "669fe41254a37d04",
+  "lastOpenFiles": [
+    "obsidian/README.md",
+    "obsidian",
+    "2023-2/webpro/🌐웹프로그래밍.md",
+    "2023-2/comnet/6강 TCP, Socket Programming, Non-blocking.md",
+    "2023-2/webpro/1-1. HTML - 기본.md",
+    "2023-2/webpro/img/Untitled.png",
+    "2023-2/webpro/img/Untitled2.png",
+    "2023-2/webpro/2. CSS.md",
+    "2023-2/webpro/1-2. HTML Forms.md",
+    "2023-2/webpro/6. PHP.md",
+    "2023-2/webpro/5. JavaSript DOM.md",
+    "2023-2/webpro/4. JavaScript.md",
+    "2023-2/webpro/3. Bootstrap.md",
+    "무제 파일.canvas",
+    "무제 파일.md",
+    "2023-2/webpro/6 PHP.md",
+    "2023-2/webpro/5 JavaSript DOM.md",
+    "2023-2/webpro/5. JavaSript DOM (2).md",
+    "2023-2/webpro/5. JavaSript DOM (1).md",
+    "3 Bootstrap c7bdd60c5f2b49b7863d67ae4f202dbc/Untitled.png.md",
+    "3 Bootstrap c7bdd60c5f2b49b7863d67ae4f202dbc",
+    "2023-2/webpro/Untitled2.png",
+    "2023-2/webpro/Untitled.png",
+    "2023-2/comnet",
+    "2023-2/webpro/img",
+    "2023-2/webpro/b1ae1aee-9569-45dd-898e-e66038f4e80f_Export-afc00e87-13b1-4e94-ade2-d0392cdefe2e",
+    "2023-2/webpro",
+    "2023-2"
+  ]
+}
