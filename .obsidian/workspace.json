@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-2/comnet/3. HTTP2, Cookie, Protocol, IP addr.md",
+                "file": "2023-2/comnet/4. Internet 성능, DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-2/comnet/3. HTTP2, Cookie, Protocol, IP addr.md",
+                "file": "2023-2/comnet/4. Internet 성능, DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-2/comnet/3. HTTP2, Cookie, Protocol, IP addr.md",
+                "file": "2023-2/comnet/4. Internet 성능, DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-2/comnet/3. HTTP2, Cookie, Protocol, IP addr.md"
+                "file": "2023-2/comnet/4. Internet 성능, DNS.md"
               }
             }
           }
@@ -173,9 +173,12 @@
   },
   "active": "b12487829499a1a0",
   "lastOpenFiles": [
-    "2023-2/comnet/2. HTTP.md",
-    "2023-2/comnet/3. HTTP2, Cookie, Protocol, IP addr.md",
+    "2023-2/webpro/🌐웹프로그래밍.md",
+    "2023-2/webpro/2. CSS.md",
+    "2023-2/comnet/4. Internet 성능, DNS.md",
+    "2023-2/comnet/3. HTTP2, Cookie, Protocol, IP addr, Docker.md",
     "2023-2/comnet/📡컴퓨터 네트워크.md",
+    "2023-2/comnet/2. HTTP.md",
     "2023-2/comnet/6. TCP, Socket Programming, Non-blocking.md",
     "img/http_method.jpg.md",
     "2023-2/comnet/img/httpmethod.jpg",
@@ -190,8 +193,6 @@
     "2023-2/webpro/4. JavaScript.md",
     "2023-2/webpro/3. Bootstrap.md",
     "2023-2/webpro/1-1. HTML - 기본.md",
-    "2023-2/webpro/2. CSS.md",
-    "2023-2/webpro/🌐웹프로그래밍.md",
     "2023-2/webpro/7-2. PHP Advanced .md",
     "2023-2/webpro/7-1. PHP Forms 6a4a04a1bbf944cb8a82d6afcf10bb44.md",
     "2023-2/webpro/7-1 PHP Forms 6a4a04a1bbf944cb8a82d6afcf10bb44.md",
@@ -205,7 +206,6 @@
     "무제 파일.md",
     "2023-2/webpro/6 PHP.md",
     "2023-2/webpro/5 JavaSript DOM.md",
-    "2023-2/webpro/5. JavaSript DOM (2).md",
     "3 Bootstrap c7bdd60c5f2b49b7863d67ae4f202dbc",
     "2023-2/webpro/Untitled2.png",
     "2023-2/webpro/Untitled.png",
