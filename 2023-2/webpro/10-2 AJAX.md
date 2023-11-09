@@ -1,0 +1,39 @@
+## AJAX
+### Asynchronous JavaScript and XML
+- 비동기 js, xml
+- 어떤 작업 요청할 때, 종료 기다리지 않고 다른 거 하다가 종료되면 추가 작업
+- 비동기적 방식으로 서버와 데이터 교환
+- xml, http 객체 만들어 처리
+- 검색엔진, 구글 맵 등에서 AJAX 기술 이용
+	- 페이지 리로드 없이도 서버로부터 데이터 받아서 추가
+	- xhr로 받아옴
+
+- 작동원리
+	- Browser -> Internet -> Server -> Internet -> Browser
+- `loadDoc()`
+	- ajax 방식으로 동작
+	- `XMLHttpRequest` 객체 생성
+	- `responseText` 서버의 응답
+
+## jQuery - AJAX
+- Get, Post 방식으로 전달 가능
+- `$("#div").load()`
+	- 데이터를 읽어서 div에 집어 넣어라
+- `$(selector).load(URL, data, callback)`
+	- URL : 필수값
+	- data : 서버에 전달할 데이터 (key-value)
+	- callback : 로드 끝나고 할 동작
+		- `callback(responseTxt, statusTxt, xhr)`
+			- responseText : 성공의 경우 서버로부터 txt 전달 받음
+			- statusTxt : 성공 - success / 실패 - error
+- `$.get(URL, data, callback)`
+	- URL : 필수
+	- data : 요청할 때 서버에 데이터를 전달 가능
+	- callback : 필수X
+- `$.post(URL, data, callback)`
+	- URL : 필수
+	- data : 전달할 데이터 (key-value)
+	- callback : 필수X
+- `callback(data, status)`
+	- data : 서버로부터 받은 데이터
+	- status : 상태정보
