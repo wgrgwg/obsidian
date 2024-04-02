@@ -61,14 +61,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-2/comnet/14. Multimedia streaming.md",
+                "file": "2023-2/webpro/11. HTML API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd66910565c40a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-1/AIUtil/Representation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5a96e2bf089c57a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85b482bd0dfe2465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-1/AIUtil/Artificial Neural Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dd4afdd7dee2ffa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2023-2/comnet/img/server-client.jpg"
+              }
+            }
+          },
+          {
+            "id": "d1efaac7ddd57304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-1/AIUtil/02 Representation Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -134,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-2/comnet/14. Multimedia streaming.md",
+                "file": "2024-1/AIUtil/02 Representation Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-2/comnet/14. Multimedia streaming.md",
+                "file": "2024-1/AIUtil/02 Representation Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-2/comnet/14. Multimedia streaming.md"
+                "file": "2024-1/AIUtil/02 Representation Learning.md"
               }
             }
           }
@@ -196,54 +254,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ef56ccd854abacce",
+  "active": "d1efaac7ddd57304",
   "lastOpenFiles": [
-    "2023-2/comnet/15. Wireless and Moblie Networks.md",
-    "2023-2/comnet/14. Multimedia streaming.md",
-    "무제 파일.md",
-    "2023-2/comnet/13. 암호기초(대칭키, 공개키, 전자서명).md",
-    "2023-2/comnet/12. 전송계층 보안 - TLS.md",
-    "2023-2/comnet/11. IP Routing - BGP.md",
+    "2024-1/AIUtil/03 Sequence to Sequence Learning.md",
+    "2024-1/AIUtil/02 Representation Learning.md",
+    "2024-1/AIUtil/img/1_s75EHMRktpDJWdZ8Ocn78A.webp",
+    "2024-1/AIUtil/Artificial Neural Network.md",
+    "2024-1/AIUtil/img/1_s75EHMRktpDJWdZ8Ocn78A.webp.crdownload",
+    "2024-1/AIUtil/img/1_h0xDPDHHE2s16D6BIa_vtg.webp",
+    "2024-1/AIUtil/Representation.md",
+    "2024-1/AIUtil/img/1_h0xDPDHHE2s16D6BIa_vtg.webp.crdownload",
+    "2024-1/AIUtil/img",
+    "2023-2/comnet/img/p2p.jpg",
+    "2023-2/comnet/img/httpmethod.jpg",
+    "2023-2/comnet/prac/무제 파일.md",
+    "2023-2/comnet/04. Internet 성능, DNS.md",
+    "2023-2/comnet/05. P2P, ftp smtp.md",
     "2023-2/comnet/10. IP Routing.md",
-    "Pasted image 20231210160407.png",
-    "2023-2/comnet/03. HTTP2, Cookie, Protocol, IP addr, Docker.md",
+    "2023-2/comnet/06. TCP, Socket Programming, Non-blocking.md",
     "2023-2/comnet/02. HTTP.md",
+    "무제 파일 2.md",
+    "무제 파일 1.md",
+    "2024-1/AIUtil",
+    "2024-1",
+    "2023-2/webpro/13-1. HTML Graphics.md",
+    "2023-2/webpro/07-2. PHP Advanced.md",
+    "2023-2/webpro/07-1. PHP Forms.md",
+    "2023-2/webpro/12-2. JS Functions.md",
+    "2023-2/webpro/13-2. HTML Media.md",
+    "2023-2/webpro/14-1. CSS III.md",
+    "2023-2/webpro/14-2. BOM.md",
+    "2023-2/webpro/11. HTML API.md",
+    "2023-2/webpro/10-1. jQuery.md",
+    "2023-2/webpro/10-2. AJAX.md",
+    "2023-2/webpro/08-3. JSON.md",
+    "2023-2/webpro/08-2. HTML Tutorial II.md",
+    "2023-2/webpro/08-1. HTML Form II.md",
+    "2023-2/webpro/12-1. JS Objects.md",
+    "Pasted image 20231210160407.png",
     "img/Pasted image 20231113233916.png",
     "img/Pasted image 20231114010032.png",
     "img/Pasted image 20231209223240.png",
-    "2023-2/comnet/06. TCP, Socket Programming, Non-blocking.md",
-    "2023-2/comnet/05. P2P, ftp smtp.md",
-    "2023-2/comnet/04. Internet 성능, DNS.md",
-    "2023-2/webpro/14-1. CSS III.md",
-    "2023-2/webpro/14-2. BOM.md",
-    "2023-2/webpro/10-1. jQuery.md",
-    "2023-2/webpro/13-2. HTML Media.md",
-    "2023-2/webpro/13-1. HTML Graphics.md",
-    "2023-2/webpro/11. HTML API.md",
-    "2023-2/webpro/08-3. JSON.md",
     "img/Pasted image 20231205004731.png",
-    "2023-2/webpro/🌐웹프로그래밍.md",
-    "무제 파일 1.md",
-    "2023-2/webpro/07-2. PHP Advanced.md",
-    "2023-2/webpro/07-1. PHP Forms.md",
-    "2023-2/webpro/08-1. HTML Form II.md",
-    "2023-2/webpro/08-2. HTML Tutorial II.md",
-    "2023-2/webpro/12-1. JS Objects.md",
     "img/Pasted image 20231116115845.png",
-    "img/Pasted image 20231116115839.png",
-    "img/Pasted image 20231116115834.png",
-    "img/Pasted image 20231116115144.png",
-    "img/Pasted image 20231116115109.png",
     "무제 파일.canvas",
     "2023-2/comnet/prac",
     "img",
     "2023-2/comnet/img",
     "obsidian",
-    "3 Bootstrap c7bdd60c5f2b49b7863d67ae4f202dbc",
-    "2023-2/comnet",
-    "2023-2/webpro/img",
-    "2023-2/webpro/b1ae1aee-9569-45dd-898e-e66038f4e80f_Export-afc00e87-13b1-4e94-ade2-d0392cdefe2e",
-    "2023-2/webpro",
-    "2023-2"
+    "3 Bootstrap c7bdd60c5f2b49b7863d67ae4f202dbc"
   ]
 }
