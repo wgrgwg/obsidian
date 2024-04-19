@@ -8,113 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d305d91c9ae8eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-2/webpro/🌐웹프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae17d7e342dab47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-2/webpro/13-2. HTML Media.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da062bca62192964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-2/webpro/10-2. AJAX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b95b95139bab5fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-2/webpro/10-1. jQuery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef56ccd854abacce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-2/webpro/11. HTML API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd66910565c40a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-1/AIUtil/Representation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5a96e2bf089c57a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85b482bd0dfe2465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-1/AIUtil/Artificial Neural Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dd4afdd7dee2ffa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2023-2/comnet/img/server-client.jpg"
-              }
-            }
-          },
-          {
-            "id": "d1efaac7ddd57304",
+            "id": "869632561bc7839b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "dd3fbff31a6c980e",
@@ -254,19 +148,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d1efaac7ddd57304",
+  "active": "869632561bc7839b",
   "lastOpenFiles": [
+    "2024-1/AIUtil/06 Classification.md",
+    "2024-1/AIUtil/04 Embedding - Data to Numbers.md",
+    "2024-1/AIUtil/img/classification_methods.webp",
+    "2024-1/AIUtil/img/classification_methods.webp.crdownload",
+    "2024-1/AIUtil/05 Transformer.md",
     "2024-1/AIUtil/03 Sequence to Sequence Learning.md",
+    "katecam/Java핵심/03 객체 접근 권한 이해.md",
+    "katecam/Java핵심/02 클래스의 종류.md",
+    "katecam/Java핵심/04 잘 설계된 VO 클래스(객체).md",
+    "katecam/Java핵심/00 인텔리제이 활용.md",
+    "katecam/Java핵심",
+    "katecam/Java핵심/01 클래스로 객체 모델링하기.md",
     "2024-1/AIUtil/02 Representation Learning.md",
-    "2024-1/AIUtil/img/1_s75EHMRktpDJWdZ8Ocn78A.webp",
-    "2024-1/AIUtil/Artificial Neural Network.md",
-    "2024-1/AIUtil/img/1_s75EHMRktpDJWdZ8Ocn78A.webp.crdownload",
-    "2024-1/AIUtil/img/1_h0xDPDHHE2s16D6BIa_vtg.webp",
+    "2024-1/AIUtil/img/encoder+decoder.webp",
+    "2024-1/AIUtil/img/encoder+decoder.webp.crdownload",
+    "2024-1/AIUtil/img/learning-based-methods.webp",
+    "2024-1/AIUtil/img/learning-based-methods.webp.crdownload",
+    "2024-1/AIUtil/img/non-learning-based-methods.webp",
+    "2024-1/AIUtil/img/non-learning-based-methods.webp.crdownload",
+    "Pasted image 20240415182043.png",
+    "katecam",
+    "2024-1/AIUtil/img/NtoM_Cal.webp",
+    "2024-1/AIUtil/img/NtoM_Cal.webp.crdownload",
+    "2024-1/AIUtil/img/RNN_N21.webp",
+    "2024-1/AIUtil/img/RNN_N21.webp.crdownload",
+    "2024-1/AIUtil/img/RNN_N2N.webp",
+    "2024-1/AIUtil/img/RNN_N2N.webp.crdownload",
     "2024-1/AIUtil/Representation.md",
-    "2024-1/AIUtil/img/1_h0xDPDHHE2s16D6BIa_vtg.webp.crdownload",
-    "2024-1/AIUtil/img",
-    "2023-2/comnet/img/p2p.jpg",
-    "2023-2/comnet/img/httpmethod.jpg",
+    "2023-2/webpro/10-2. AJAX.md",
+    "2024-1/AIUtil/img/1_-O5FKiqCb_a3zBQwvjhPuw.webp",
+    "2024-1/AIUtil/img/1__qny2Eqaylu7dqYDCPc0kw.webp",
+    "2024-1/AIUtil/img/1_-O5FKiqCb_a3zBQwvjhPuw.webp.crdownload",
+    "2024-1/AIUtil/Artificial Neural Network.md",
     "2023-2/comnet/prac/무제 파일.md",
     "2023-2/comnet/04. Internet 성능, DNS.md",
     "2023-2/comnet/05. P2P, ftp smtp.md",
@@ -275,33 +191,10 @@
     "2023-2/comnet/02. HTTP.md",
     "무제 파일 2.md",
     "무제 파일 1.md",
-    "2024-1/AIUtil",
-    "2024-1",
     "2023-2/webpro/13-1. HTML Graphics.md",
     "2023-2/webpro/07-2. PHP Advanced.md",
     "2023-2/webpro/07-1. PHP Forms.md",
     "2023-2/webpro/12-2. JS Functions.md",
-    "2023-2/webpro/13-2. HTML Media.md",
-    "2023-2/webpro/14-1. CSS III.md",
-    "2023-2/webpro/14-2. BOM.md",
-    "2023-2/webpro/11. HTML API.md",
-    "2023-2/webpro/10-1. jQuery.md",
-    "2023-2/webpro/10-2. AJAX.md",
-    "2023-2/webpro/08-3. JSON.md",
-    "2023-2/webpro/08-2. HTML Tutorial II.md",
-    "2023-2/webpro/08-1. HTML Form II.md",
-    "2023-2/webpro/12-1. JS Objects.md",
-    "Pasted image 20231210160407.png",
-    "img/Pasted image 20231113233916.png",
-    "img/Pasted image 20231114010032.png",
-    "img/Pasted image 20231209223240.png",
-    "img/Pasted image 20231205004731.png",
-    "img/Pasted image 20231116115845.png",
-    "무제 파일.canvas",
-    "2023-2/comnet/prac",
-    "img",
-    "2023-2/comnet/img",
-    "obsidian",
-    "3 Bootstrap c7bdd60c5f2b49b7863d67ae4f202dbc"
+    "무제 파일.canvas"
   ]
 }
