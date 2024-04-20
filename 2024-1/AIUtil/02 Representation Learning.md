@@ -36,10 +36,10 @@
 	- **==Distributed Representation==**
 		- 더 컴팩트, 100 차원 정도의 공간에 실수로 표현
 		- 정보를 효율적으로 압축, 표현 but 정보가 넓게 분산 -> 의미 해석 어려움 O
-			- 해석 가능성(Interpretability)
+			- 해석 가능성(Interpretability) ↓
 		- `[34.2, 93.2, 45.3, ...]`
 
-### 개념적 이해
+### 표현학습의 개념적 이해
 **잠재변수(Latent Variable)** 중심으로 이해
 
 우리가 다루는 숫자
