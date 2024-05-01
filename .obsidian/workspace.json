@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-1/NewComLec/1주차_0306.md",
+                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "dd3fbff31a6c980e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-1/NewComLec/1주차_0306.md",
+                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-1/NewComLec/1주차_0306.md",
+                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-1/NewComLec/1주차_0306.md"
+                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md"
               }
             }
           }
@@ -149,13 +150,35 @@
   },
   "active": "869632561bc7839b",
   "lastOpenFiles": [
-    "2024-1/NewComLec/2주차_0313.md",
+    "katecam/객체지향 프로그램 설계/05 추상클래스와 인터페이스.md",
+    "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
+    "katecam/객체지향 프로그램 설계/04 다형성(Polymorphism)과 활용.md",
+    "katecam/객체지향 프로그램 설계/03 객체 형변환(Object Casting).md",
+    "katecam/객체지향 프로그램 설계/02 상속관계에서 객체생성 및 Override.md",
+    "katecam/객체지향 프로그램 설계/01 Java의 상속.md",
+    "katecam/Java핵심/04 잘 설계된 VO 클래스(객체).md",
+    "katecam/Java핵심/05 배열과 클래스의 관계.md",
+    "katecam/Java핵심/06 Static과 JVM 메모리 모델 이해.md",
+    "katecam/객체지향 프로그램 설계",
+    "katecam/무제 파일.md",
+    "katecam/Java핵심/00 인텔리제이 활용.md",
+    "katecam/Java핵심/01 클래스로 객체 모델링하기.md",
+    "2024-1/NewComLec/toPDF/최컴특 중간 (1-6).md",
+    "2024-1/NewComLec/최컴특 중간 (1-6).pdf",
     "2024-1/NewComLec/1주차_0306.md",
-    "2024-1/NewComLec/6주차_0417.md",
+    "2024-1/NewComLec/toPDF/4주차_0403.md",
+    "2024-1/NewComLec/toPDF/2주차_0313.md",
+    "2024-1/NewComLec/toPDF/1주차_0306.md",
+    "2024-1/NewComLec/무제 파일.md",
     "2024-1/NewComLec/4주차_0403.md",
-    "2024-1/NewComLec/3주차_0327.md",
-    "2024-1/NewComLec/Pasted image 20240422142244.png",
+    "2024-1/NewComLec/미확인 464559.crdownload",
+    "2024-1/NewComLec/2주차_0313.md",
+    "2024-1/NewComLec/toPDF/3주차_0327.md",
     "2024-1/NewComLec/Pasted image 20240423154013.png",
+    "2024-1/NewComLec/toPDF",
+    "2024-1/NewComLec/3주차_0327.md",
+    "2024-1/NewComLec/6주차_0417.md",
+    "2024-1/NewComLec/Pasted image 20240422142244.png",
     "img/Pasted image 20231209223240.png",
     "img/Pasted image 20231115202742.png",
     "img/Pasted image 20231116115144.png",
@@ -168,32 +191,11 @@
     "2024-1/AIUtil/04 Embedding - Data to Numbers.md",
     "2024-1/NewComLec",
     "2024-1/AIUtil/03 Sequence to Sequence Learning.md",
-    "2024-1/AIUtil/06 Classification.md",
-    "2024-1/AIUtil/05 Transformer.md",
-    "2024-1/AIUtil/Representation.md",
-    "2024-1/AIUtil/02-1 Artificial Neural Network.md",
-    "2024-1/AIUtil/02 Representation Learning.md",
-    "katecam/Java핵심/02 클래스의 종류.md",
-    "katecam/Java핵심/03 객체 접근 권한 이해.md",
-    "katecam/Java핵심/01 클래스로 객체 모델링하기.md",
     "2024-1/AIUtil/img/classification_methods.webp.crdownload",
-    "katecam/Java핵심/04 잘 설계된 VO 클래스(객체).md",
-    "katecam/Java핵심/00 인텔리제이 활용.md",
     "katecam/Java핵심",
     "2024-1/AIUtil/img/encoder+decoder.webp.crdownload",
     "2024-1/AIUtil/img/learning-based-methods.webp.crdownload",
     "2024-1/AIUtil/img/non-learning-based-methods.webp.crdownload",
-    "katecam",
-    "2024-1/AIUtil/img/NtoM_Cal.webp.crdownload",
-    "2024-1/AIUtil/img/RNN_N21.webp.crdownload",
-    "2024-1/AIUtil/img/RNN_N2N.webp.crdownload",
-    "2023-2/webpro/10-2. AJAX.md",
-    "2023-2/comnet/prac/무제 파일.md",
-    "2023-2/comnet/04. Internet 성능, DNS.md",
-    "2023-2/comnet/05. P2P, ftp smtp.md",
-    "2023-2/comnet/10. IP Routing.md",
-    "2023-2/comnet/06. TCP, Socket Programming, Non-blocking.md",
-    "2023-2/comnet/02. HTTP.md",
     "무제 파일.canvas"
   ]
 }
