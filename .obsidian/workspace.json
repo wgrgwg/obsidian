@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
+                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "dd3fbff31a6c980e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
+                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
+                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md"
+                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,54 +147,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "869632561bc7839b",
+  "active": "669fe41254a37d04",
   "lastOpenFiles": [
-    "katecam/객체지향 프로그램 설계/05 추상클래스와 인터페이스.md",
-    "katecam/객체지향 프로그램 설계/06 Java 최상위 클래스 Object.md",
-    "katecam/객체지향 프로그램 설계/04 다형성(Polymorphism)과 활용.md",
-    "katecam/객체지향 프로그램 설계/03 객체 형변환(Object Casting).md",
-    "katecam/객체지향 프로그램 설계/02 상속관계에서 객체생성 및 Override.md",
-    "katecam/객체지향 프로그램 설계/01 Java의 상속.md",
-    "katecam/Java핵심/04 잘 설계된 VO 클래스(객체).md",
-    "katecam/Java핵심/05 배열과 클래스의 관계.md",
-    "katecam/Java핵심/06 Static과 JVM 메모리 모델 이해.md",
-    "katecam/객체지향 프로그램 설계",
-    "katecam/무제 파일.md",
-    "katecam/Java핵심/00 인텔리제이 활용.md",
-    "katecam/Java핵심/01 클래스로 객체 모델링하기.md",
-    "2024-1/NewComLec/toPDF/최컴특 중간 (1-6).md",
-    "2024-1/NewComLec/최컴특 중간 (1-6).pdf",
-    "2024-1/NewComLec/1주차_0306.md",
-    "2024-1/NewComLec/toPDF/4주차_0403.md",
-    "2024-1/NewComLec/toPDF/2주차_0313.md",
-    "2024-1/NewComLec/toPDF/1주차_0306.md",
-    "2024-1/NewComLec/무제 파일.md",
-    "2024-1/NewComLec/4주차_0403.md",
-    "2024-1/NewComLec/미확인 464559.crdownload",
-    "2024-1/NewComLec/2주차_0313.md",
-    "2024-1/NewComLec/toPDF/3주차_0327.md",
+    "2024-1/AIUtil/09 Autoencoder and Variational Autoencoder.md",
+    "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
+    "2024-1/AIUtil/12 Variants of GAN (CGAN, Pix2Pix, CycleGAN).md",
+    "2024-1/AIUtil/11 GAN (Generative Adversarial Nets).md",
+    "katecam/웹 프론트/05 JS.md",
+    "katecam/웹 프론트/04 CSS.md",
+    "katecam/웹 프론트/03 HTML.md",
+    "2024-1/AIUtil/img/K-DL.png",
+    "2024-1/AIUtil/img/NtoM_Cal.webp",
     "2024-1/NewComLec/Pasted image 20240423154013.png",
-    "2024-1/NewComLec/toPDF",
-    "2024-1/NewComLec/3주차_0327.md",
-    "2024-1/NewComLec/6주차_0417.md",
     "2024-1/NewComLec/Pasted image 20240422142244.png",
+    "2024-1/AIUtil/Representation.md",
+    "2024-1/NewComLec/3주차_0327.md",
+    "2024-1/NewComLec/2주차_0313.md",
+    "2024-1/NewComLec/4주차_0403.md",
+    "2024-1/NewComLec/6주차_0417.md",
+    "2024-1/AIUtil/08 NLP Problems - Understanding.md",
+    "2024-1/무제 파일.md",
+    "2024-1/AIUtil/06 Classification.md",
+    "2024-1/AIUtil/07 NLP Problems - Application.md",
+    "katecam/MySQL/10 고급 기능.md",
+    "katecam/MySQL/09 조건에 조건 더하기.md",
+    "katecam/Java핵심/02 클래스의 종류.md",
+    "katecam/웹 프론트/01 개요.md",
+    "katecam/웹 프론트/02 VS Code.md",
+    "katecam/MySQL/08 여러 테이블 한번에 다루기.md",
+    "katecam/MySQL/07 규칙 만들기.md",
+    "katecam/MySQL/06 데이터 그룹화하기.md",
+    "katecam/MySQL/05 원하는 데이터 만들기.md",
+    "katecam/MySQL/04 조건에 맞는 데이터 가져오기.md",
+    "katecam/MySQL",
+    "katecam/웹 프론트",
+    "katecam/Java심화-CollectionAPI활용",
+    "katecam/Java심화-API활용",
+    "katecam/객체지향 프로그램 설계",
+    "2024-1/NewComLec/최컴특 중간 (1-6).pdf",
+    "2024-1/NewComLec/미확인 464559.crdownload",
+    "2024-1/NewComLec/toPDF",
     "img/Pasted image 20231209223240.png",
     "img/Pasted image 20231115202742.png",
     "img/Pasted image 20231116115144.png",
     "img/Pasted image 20231116115834.png",
     "img/Pasted image 20231116115839.png",
     "img/Pasted image 20231116115845.png",
-    "img/Pasted image 20231205004731.png",
-    "img/Pasted image 20231113233916.png",
-    "README.md",
-    "2024-1/AIUtil/04 Embedding - Data to Numbers.md",
     "2024-1/NewComLec",
-    "2024-1/AIUtil/03 Sequence to Sequence Learning.md",
     "2024-1/AIUtil/img/classification_methods.webp.crdownload",
-    "katecam/Java핵심",
-    "2024-1/AIUtil/img/encoder+decoder.webp.crdownload",
-    "2024-1/AIUtil/img/learning-based-methods.webp.crdownload",
-    "2024-1/AIUtil/img/non-learning-based-methods.webp.crdownload",
     "무제 파일.canvas"
   ]
 }
