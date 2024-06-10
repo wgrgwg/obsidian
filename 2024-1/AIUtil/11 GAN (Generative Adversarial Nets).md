@@ -128,4 +128,4 @@
 
 ### 결론
 - GAN은 딥러닝에서 매우 중요한 생성 모델 -> 다양한 응용 가능성
-- 많은 변형도 존재 -> **CGAN**, Pix2Pix, **CycleGAN**, StyleGAN, BigGAN
+- 많은 변형도 존재 -> **CGAN**, **Pix2Pix**, **CycleGAN**, StyleGAN, BigGAN

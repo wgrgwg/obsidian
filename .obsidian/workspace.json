@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
+                "file": "2024-1/AIUtil/08 NLP Problems - Understanding.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "dd3fbff31a6c980e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
+                "file": "2024-1/AIUtil/08 NLP Problems - Understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
+                "file": "2024-1/AIUtil/08 NLP Problems - Understanding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md"
+                "file": "2024-1/AIUtil/08 NLP Problems - Understanding.md"
               }
             }
           }
@@ -147,12 +148,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "669fe41254a37d04",
+  "active": "869632561bc7839b",
   "lastOpenFiles": [
+    "2024-1/AIUtil/07 NLP Problems - Application.md",
     "2024-1/AIUtil/09 Autoencoder and Variational Autoencoder.md",
     "2024-1/AIUtil/10 Encoder or Decoder Only Language Model.md",
+    "2024-1/AIUtil/13 Exploratory AI.md",
+    "2024-1/AIUtil/08 NLP Problems - Understanding.md",
+    "2024-1/AIUtil/Representation.md",
     "2024-1/AIUtil/12 Variants of GAN (CGAN, Pix2Pix, CycleGAN).md",
     "2024-1/AIUtil/11 GAN (Generative Adversarial Nets).md",
+    "katecam/MySQL/03 데이터 가져오기.md",
+    "katecam/MySQL/05 원하는 데이터 만들기.md",
+    "katecam/MySQL/06 데이터 그룹화하기.md",
+    "katecam/MySQL/04 조건에 맞는 데이터 가져오기.md",
+    "katecam/MySQL/02 데이터 다루기.md",
+    "katecam/MySQL/10 고급 기능.md",
+    "katecam/MySQL/07 규칙 만들기.md",
+    "katecam/MySQL/01 개요.md",
+    "katecam/MySQL/09 조건에 조건 더하기.md",
+    "katecam/MySQL/08 여러 테이블 한번에 다루기.md",
     "katecam/웹 프론트/05 JS.md",
     "katecam/웹 프론트/04 CSS.md",
     "katecam/웹 프론트/03 HTML.md",
@@ -160,25 +175,11 @@
     "2024-1/AIUtil/img/NtoM_Cal.webp",
     "2024-1/NewComLec/Pasted image 20240423154013.png",
     "2024-1/NewComLec/Pasted image 20240422142244.png",
-    "2024-1/AIUtil/Representation.md",
     "2024-1/NewComLec/3주차_0327.md",
     "2024-1/NewComLec/2주차_0313.md",
     "2024-1/NewComLec/4주차_0403.md",
     "2024-1/NewComLec/6주차_0417.md",
-    "2024-1/AIUtil/08 NLP Problems - Understanding.md",
     "2024-1/무제 파일.md",
-    "2024-1/AIUtil/06 Classification.md",
-    "2024-1/AIUtil/07 NLP Problems - Application.md",
-    "katecam/MySQL/10 고급 기능.md",
-    "katecam/MySQL/09 조건에 조건 더하기.md",
-    "katecam/Java핵심/02 클래스의 종류.md",
-    "katecam/웹 프론트/01 개요.md",
-    "katecam/웹 프론트/02 VS Code.md",
-    "katecam/MySQL/08 여러 테이블 한번에 다루기.md",
-    "katecam/MySQL/07 규칙 만들기.md",
-    "katecam/MySQL/06 데이터 그룹화하기.md",
-    "katecam/MySQL/05 원하는 데이터 만들기.md",
-    "katecam/MySQL/04 조건에 맞는 데이터 가져오기.md",
     "katecam/MySQL",
     "katecam/웹 프론트",
     "katecam/Java심화-CollectionAPI활용",
